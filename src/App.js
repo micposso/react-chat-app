@@ -6,7 +6,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <Container>
-      <Row>
+      <Row className="justify-content-md-center">
       <Col>
         <Dashboard />
       </Col>
